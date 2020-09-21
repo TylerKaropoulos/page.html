@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Epic</title>
+Epic
 </head>
 <body>
 
